@@ -1,0 +1,12 @@
+{
+  "name": "canvas-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "dotenv": "^8.2.0",
+    "gm": "^1.23.1",
+    "telegraf": "^3.36.0"
+  }
+}
